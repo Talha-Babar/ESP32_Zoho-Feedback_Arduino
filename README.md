@@ -1,6 +1,6 @@
-# ESP32 Wi-Fi Setup and Button Feedback to API
+# ESP32 Wi-Fi Setup and Feedback Submission to API
 
-This project demonstrates using an ESP32 to set up Wi-Fi credentials through a web interface and send button feedback to a specified API endpoint. The system includes a debounce mechanism for button presses to ensure reliable data transmission.
+This project demonstrates using an ESP32 to set up Wi-Fi credentials through a web interface and send client-specific product quality feedback to a Zoho CRM API. The system utilizes a debounce mechanism to ensure reliable button-press detection for submitting feedback.
 
 ---
 
