@@ -1,4 +1,4 @@
-# ESP32 Wi-Fi Setup and Feedback Submission to API
+# ESP32 Wi-Fi Setup and Feedback Submission to API (Arduino Framework)
 
 This project demonstrates using an ESP32 to set up Wi-Fi credentials through a web interface and send client-specific product quality feedback to a Zoho CRM API. The system utilizes a debounce mechanism to ensure reliable button-press detection for submitting feedback.
 
